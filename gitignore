@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Jupyter/Colab specific
+.ipynb_checkpoints/
+/content/drive/
+/content/genotypes_temp/
+
+# Generated files/large data
+*.pdf
+*.tif
+*.csv
+*.tar.gz
+*.hdf5
+Topo_Genetics_Report.pdf
+
+# IDE specific
+.vscode/

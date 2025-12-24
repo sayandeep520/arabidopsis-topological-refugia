@@ -1,0 +1,9 @@
+pandas
+rasterio
+matplotlib
+numpy
+networkx
+scipy
+gudhi
+seaborn
+h5py
